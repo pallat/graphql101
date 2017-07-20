@@ -1,0 +1,5 @@
+package: github.com/pallat/graphql
+import:
+- package: github.com/graphql-go/graphql
+  version: v0.6.0
+- package: github.com/graphql-go/handler
